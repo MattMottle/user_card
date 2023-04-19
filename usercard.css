@@ -1,0 +1,56 @@
+h1{
+    width: 790px;
+    height: 125px;
+    background-color: teal;
+    position: relative;
+    left: -40px;
+    margin: 0;
+}
+.container {
+    width: 750px;
+    height: 400px;
+    padding-left: 40px;
+    background-color: white;
+    border: 3px solid black;
+}
+.profilepic {
+    position: relative;
+    top: -70px;
+    
+}
+.name {
+    font-size: 16pt;
+    font-family: 'helvetica';
+    position: relative;
+    top: -70px;
+}
+.location {
+    display: inline-block;
+    position: relative;
+    right: -20px;
+    top: -120px;
+    font-size: 12pt;
+    font-family: helvetica;
+}
+.mapmarker {
+    position: relative;
+    top: -85px;
+}
+.jobtitle {
+    position: relative;
+    top: -125px;
+    left: 40px;
+    font-family: helvetica;
+}
+.master {
+    position: relative;
+    top: -125px;
+    left: 40px;
+    font-family: helvetica;
+}
+.edit {
+    position: relative;
+    top: -125px;
+    left: 40px;
+    font-family: helvetica;
+}
